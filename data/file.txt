@@ -1,0 +1,4 @@
+This is Danial today we are learning git.
+We are learning more git commands today!
+This text was entered using Nano.
+This text was entered using "vi". 
